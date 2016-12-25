@@ -6,7 +6,7 @@ module.exports = {
     title: 'GitBook帮助文档',
     language: "zh-hans",
     // Use the "official" theme
-    plugins: ['sitemap'],
+    plugins: ['sitemap','adsense'],
 
     variables: {
         version: pkg.version
@@ -15,6 +15,12 @@ module.exports = {
     pluginsConfig: {
         sitemap: {
             hostname: 'https://toolchain.gitbook.com'
-        }
+        },
+	adsense:{
+	    client:'pub-6708784301423513',
+	    slot:'1905927835',
+	    format:'auto',
+	    element:'.page-inner section'
+	}
     }
 };
