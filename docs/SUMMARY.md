@@ -9,7 +9,7 @@
 
 * [目录结构](structure.md)
 * [Pages and Summary](pages.md)
-* [Configuration](config.md)
+* [配置](config.md)
 * [Glossary](lexicon.md)
 * [Multi-Lingual](languages.md)
 * [Markdown](syntax/markdown.md)
