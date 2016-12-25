@@ -38,7 +38,7 @@ You can find a [list of real-world examples](docs/examples.md) in the documentat
 
 We're always happy to help out with your books or any other questions you might have. You can ask a question on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact) or signal an issue on [GitHub](https://github.com/GitbookIO/gitbook).
 
-## Features
+## 特性
 
 * Write using [Markdown](http://toolchain.gitbook.com/syntax/markdown.html) or [AsciiDoc](http://toolchain.gitbook.com/syntax/asciidoc.html)
 * Output as a website or [ebook (pdf, epub, mobi)](http://toolchain.gitbook.com/ebook.html)
