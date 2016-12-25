@@ -19,7 +19,7 @@ A basic GitBook usually looks something like this:
 
 An overview of what each of these does:
 
-| File | Description |
+| 文件 | 说明 |
 | -------- | ----------- |
 | `book.json` | Stores [configuration](config.md) data (__optional__) |
 | `README.md` | Preface / Introduction for your book (**required**) |
