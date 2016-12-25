@@ -1,6 +1,6 @@
 [![GitBook](https://raw.github.com/GitbookIO/gitbook/master/docs/images/banner.png)](https://www.gitbook.com)
 
-<p align="center">A <em>modern</em> customizable documentation format and toolchain</p>
+<p align="center">一个现代化的可定制的文档格式工具</p>
 
 
 <p align="center"><a href="#features"><strong>Features</strong></a> · <a href="https://www.gitbook.com"><strong>Hosting</strong></a> · <a href="http://redux.js.org/"><strong>Example</strong></a> · <a href="https://www.gitbook.com/editor"><strong>Editor</strong></a> · <a href="https://toolchain.gitbook.com/"><strong>Documentation</strong></a> · <a href="./CONTRIBUTING.md"><strong>Contributing!</strong></a> · <a href="https://twitter.com/GitBookIO"><strong>Twitter</strong></a></p>
