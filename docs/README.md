@@ -1,6 +1,6 @@
 # GitBook帮助文档
 
-This document aims to be a comprehensive guide to GitBook. It contains the full documentation for version **{{ book.version }}**. Help for GitBook.com specific questions can be found at [help.gitbook.com](https://help.gitbook.com).
+本文件旨在成为一个全面的gitbook指南。It contains the full documentation for version **{{ book.version }}**. Help for GitBook.com specific questions can be found at [help.gitbook.com](https://help.gitbook.com).
 
 ### 什么是GitBook?
 

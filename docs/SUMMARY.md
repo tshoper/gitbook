@@ -2,52 +2,52 @@
 
 ### 起步
 
-* [About this documentation](README.md)
-* [Installation and Setup](setup.md)
+* [关于此文档](README.md)
+* [安装和设置](setup.md)
 
 ### 你的内容
 
 * [目录结构](structure.md)
-* [Pages and Summary](pages.md)
+* [页面和概述](pages.md)
 * [配置](config.md)
-* [Glossary](lexicon.md)
-* [Multi-Lingual](languages.md)
-* [Markdown](syntax/markdown.md)
-    * [Headings](syntax/markdown.md#headings)
-    * [Paragraphs](syntax/markdown.md#paragraphs)
-    * [Emphasis](syntax/markdown.md#emphasis)
-    * [Lists](syntax/markdown.md#lists)
-    * [Links](syntax/markdown.md#links)
-    * [Images](syntax/markdown.md#images)
-    * [Blockquotes](syntax/markdown.md#blockquotes)
-    * [Tables](syntax/markdown.md#tables)
-    * [Code](syntax/markdown.md#code)
+* [术语表](lexicon.md)
+* [多语言](languages.md)
+* [Markdown语法](syntax/markdown.md)
+    * [标题](syntax/markdown.md#headings)
+    * [段落](syntax/markdown.md#paragraphs)
+    * [强调](syntax/markdown.md#emphasis)
+    * [列表](syntax/markdown.md#lists)
+    * [链接](syntax/markdown.md#links)
+    * [图片](syntax/markdown.md#images)
+    * [块引用](syntax/markdown.md#blockquotes)
+    * [表格](syntax/markdown.md#tables)
+    * [代码块](syntax/markdown.md#code)
     * [HTML](syntax/markdown.md#html)
-    * [Footnotes](syntax/markdown.md#footnotes)
+    * [注脚](syntax/markdown.md#footnotes)
 * [AsciiDoc](syntax/asciidoc.md)
-* [eBook and PDF](ebook.md)
+* [电子书和PDF](ebook.md)
 
 ### 定制
 
 * [模板](templating/README.md)
-    * [Content References](templating/conrefs.md)
-    * [Variables](templating/variables.md)
-    * [Builtin](templating/builtin.md)
+    * [参考内容](templating/conrefs.md)
+    * [变量](templating/variables.md)
+    * [内置](templating/builtin.md)
 * [插件](plugins/README.md)
-    * [Create a plugin](plugins/create.md)
-    * [Hooks](plugins/hooks.md)
-    * [Blocks](plugins/blocks.md)
-    * [Filters](plugins/filters.md)
-    * [API & Context](plugins/api.md)
-    * [Test your plugin](plugins/testing.md)
+    * [创建](plugins/create.md)
+    * [钩子](plugins/hooks.md)
+    * [扩展模板块](plugins/blocks.md)
+    * [过滤器](plugins/filters.md)
+    * [上下文API](plugins/api.md)
+    * [测试](plugins/testing.md)
 * [主题](themes/README.md)
 
 ### 插件开发
 
-* [Introduction](./api/README.md)
+* [简介](./api/README.md)
 * [Node](./api/node.md)
-* [Connect to the context](./api/connect.md)
-* [Components](./api/components.md)
+* [链接上下文](./api/connect.md)
+* [组件](./api/components.md)
 
 --
 
