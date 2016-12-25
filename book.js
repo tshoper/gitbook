@@ -3,7 +3,7 @@ var pkg = require('./package.json');
 module.exports = {
     // Documentation for GitBook is stored under "docs"
     root: './docs',
-    title: 'GitBook Toolchain Documentation',
+    title: 'GitBook帮助文档',
 
     // Use the "official" theme
     plugins: ['sitemap'],

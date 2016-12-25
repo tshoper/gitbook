@@ -1,13 +1,13 @@
 # Summary
 
-### Getting Started
+### 起步
 
 * [About this documentation](README.md)
 * [Installation and Setup](setup.md)
 
-### Your Content
+### 你的内容
 
-* [Directory structure](structure.md)
+* [目录结构](structure.md)
 * [Pages and Summary](pages.md)
 * [Configuration](config.md)
 * [Glossary](lexicon.md)
@@ -27,22 +27,22 @@
 * [AsciiDoc](syntax/asciidoc.md)
 * [eBook and PDF](ebook.md)
 
-### Customization
+### 定制
 
-* [Templating](templating/README.md)
+* [模板](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
     * [Builtin](templating/builtin.md)
-* [Plugins](plugins/README.md)
+* [插件](plugins/README.md)
     * [Create a plugin](plugins/create.md)
     * [Hooks](plugins/hooks.md)
     * [Blocks](plugins/blocks.md)
     * [Filters](plugins/filters.md)
     * [API & Context](plugins/api.md)
     * [Test your plugin](plugins/testing.md)
-* [Theming](themes/README.md)
+* [主题](themes/README.md)
 
-### Plugin Development
+### 插件开发
 
 * [Introduction](./api/README.md)
 * [Node](./api/node.md)
@@ -51,6 +51,6 @@
 
 --
 
-* [FAQ](faq.md)
-* [Examples](examples.md)
-* [Release notes](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md)
+* [常见问题](faq.md)
+* [示例](examples.md)
+* [发行说明](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md)
