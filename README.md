@@ -50,10 +50,10 @@ We're always happy to help out with your books or any other questions you might 
 * [Plugins](http://toolchain.gitbook.com/plugins/)
 * [Beautiful default theme](https://github.com/GitbookIO/theme-default)
 
-## Publish your book
+## 出版
 
 The platform [GitBook.com](https://www.gitbook.com/) is like an "Heroku for books": you can create a book on it (public, or private) and update it using **git push**.
 
-## Licensing
+## 许可
 
 GitBook is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full license text.
