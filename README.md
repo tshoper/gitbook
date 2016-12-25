@@ -24,17 +24,17 @@ Check out the [GitBook Community Slack Channel](https://slack.gitbook.com), Stay
 
 Complete documentation is available at [toolchain.gitbook.com](http://toolchain.gitbook.com/).
 
-## Getting started
+## 开始
 
 GitBook can be used either on your computer for building local books or on GitBook.com for hosting them. To get started, check out [the installation instructions in the documentation](docs/setup.md).
 
-## Usage examples
+## 使用示例
 
 GitBook can be used to create book, public documentation, enterprise manual, thesis, research papers, etc.
 
 You can find a [list of real-world examples](docs/examples.md) in the documentation.
 
-## Help and Support
+## 帮助和支持
 
 We're always happy to help out with your books or any other questions you might have. You can ask a question on the following contact form at [gitbook.com/contact](https://www.gitbook.com/contact) or signal an issue on [GitHub](https://github.com/GitbookIO/gitbook).
 
